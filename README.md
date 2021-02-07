@@ -2,6 +2,11 @@
 
 CPS(Camera photo synchronization)
 
+# Dependent
+
+- SQLAlchemy ORM
+- PosgreSQL
+
 ## TODO
 
 - 存储照片信息至数据库
